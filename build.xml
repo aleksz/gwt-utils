@@ -1,0 +1,6 @@
+<project name="gwt-utils" default="jar">
+
+	<target name="jar">
+		<jar destfile="gwt-utils.jar" basedir="bin"/>
+	</target>
+</project>
